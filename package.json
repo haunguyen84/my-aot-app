@@ -8,6 +8,7 @@
     "@angular/common": "^4.3.0",
     "@angular/compiler": "^4.3.0",
     "@angular/compiler-cli": "^4.3.0",
+    "@angular/core": "^4.3.0",
     "babel-runtime": "^6.20.0",
     "meteor-node-stubs": "~0.2.4"
   }

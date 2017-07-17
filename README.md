@@ -24,3 +24,6 @@ meteor npm install --save @angular/compiler
 
 8. npm install @angular/compiler-cli
 meteor npm install --save @angular/compiler-cli
+
+9. npm install @angular/core
+meteor npm install --save @angular/core

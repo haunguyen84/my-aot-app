@@ -15,3 +15,9 @@ meteor add angular2-compilers
 
 6. npm install @angular/common
 meteor npm install --save @angular/common
+
+6. npm install @angular/common
+meteor npm install --save @angular/common
+
+7. npm install @angular/compiler
+meteor npm install --save @angular/compiler

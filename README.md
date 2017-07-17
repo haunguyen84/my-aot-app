@@ -39,3 +39,6 @@ meteor npm install --save @angular/platform-browser
 
 13. npm install @angular/platform-browser-dynamic
 meteor npm install --save @angular/platform-browser-dynamic
+
+14. npm install @angular/platform-server
+meteor npm install --save @angular/platform-server

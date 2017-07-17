@@ -51,3 +51,6 @@ meteor npm install --save reflect-metadata
 
 17. npm install --save rxjs
 meteor npm install --save rxjs
+
+18. npm install zone.js
+meteor npm install --save zone.js

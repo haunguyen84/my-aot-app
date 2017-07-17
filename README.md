@@ -57,3 +57,6 @@ meteor npm install --save zone.js
 
 19. npm install @types/meteor
 meteor npm install --save-dev @types/meteor
+
+20. npm install @types/meteor-accounts-phone
+meteor npm install --save-dev @types/meteor-accounts-phone

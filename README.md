@@ -33,3 +33,6 @@ meteor npm install --save @angular/forms
 
 11. npm install @angular/http
 meteor npm install --save @angular/http
+
+12. npm install @angular/platform-browser
+meteor npm install --save @angular/platform-browser

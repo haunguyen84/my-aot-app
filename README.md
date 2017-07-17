@@ -21,3 +21,6 @@ meteor npm install --save @angular/common
 
 7. npm install @angular/compiler
 meteor npm install --save @angular/compiler
+
+8. npm install @angular/compiler-cli
+meteor npm install --save @angular/compiler-cli

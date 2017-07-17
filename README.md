@@ -63,3 +63,6 @@ meteor npm install --save-dev @types/meteor-accounts-phone
 
 21. npm install @types/underscore
 meteor npm install --save-dev @types/underscore
+
+22. npm install meteor-typings
+meteor npm install --save-dev meteor-typings

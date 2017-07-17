@@ -45,3 +45,6 @@ meteor npm install --save @angular/platform-server
 
 15. npm install meteor-rxjs
 meteor npm install --save meteor-rxjs
+
+16. npm install reflect-metadata
+meteor npm install --save reflect-metadata

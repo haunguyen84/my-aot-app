@@ -30,3 +30,6 @@ meteor npm install --save @angular/core
 
 10. npm install @angular/forms
 meteor npm install --save @angular/forms
+
+11. npm install @angular/http
+meteor npm install --save @angular/http

@@ -8,3 +8,7 @@ meteor remove blaze-html-templates
 
 3. Add angular2-compilers
 meteor add angular2-compilers
+
+4. Add file tsconfig.json
+
+5. Add file declarations.d.ts

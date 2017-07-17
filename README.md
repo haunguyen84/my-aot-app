@@ -54,3 +54,6 @@ meteor npm install --save rxjs
 
 18. npm install zone.js
 meteor npm install --save zone.js
+
+19. npm install @types/meteor
+meteor npm install --save-dev @types/meteor

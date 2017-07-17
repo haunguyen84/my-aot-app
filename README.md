@@ -48,3 +48,6 @@ meteor npm install --save meteor-rxjs
 
 16. npm install reflect-metadata
 meteor npm install --save reflect-metadata
+
+17. npm install --save rxjs
+meteor npm install --save rxjs

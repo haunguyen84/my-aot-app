@@ -12,3 +12,6 @@ meteor add angular2-compilers
 4. Add file tsconfig.json
 
 5. Add file declarations.d.ts
+
+6. npm install @angular/common
+meteor npm install --save @angular/common
